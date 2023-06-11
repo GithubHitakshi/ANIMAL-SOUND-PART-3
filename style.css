@@ -1,0 +1,44 @@
+.header_div{
+    background-color: rgb(179, 226, 255);
+}
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: rgb(212, 233, 255);
+}
+
+.header_div h1{
+    color: rgb(7, 1, 9);
+}
+
+.header_div p{
+    color: rgb(31, 23, 244);
+    font-size: 20px;
+}
+#play_sound{
+    margin-top: 10px;
+    
+    font-size: 20px;
+
+}
+
+.footer_div{
+    position: fixed;
+    bottom:0px;
+    background-color: rgb(205, 255, 247);
+    width: 100%;
+    line-height: 2;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+h4{
+    font-size: 40px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+#animalsound{
+    font-size: 40px;
+}
